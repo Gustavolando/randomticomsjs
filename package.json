@@ -1,0 +1,24 @@
+{
+  "name": "randomticomsjs",
+  "version": "1.0.0",
+  "description": "Random Tico Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gustavolando/randomticomsjs.git"
+  },
+  "keywords": [],
+  "author": "Gustavo Gonzalez <votagus@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Gustavolando/randomticomsjs/issues"
+  },
+  "homepage": "https://github.com/Gustavolando/randomticomsjs#readme",
+  "bin": {
+    "randomticomsjs": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
